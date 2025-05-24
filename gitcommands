@@ -11,8 +11,17 @@ open that folder in VScode
 #git clone paste the github repo link
 #git ststus
 cd .\foldername\
-git add . or git add filename
-git status
-git commit -m "this is first commit"
-git branch
-git push -u origin main
+#git add . or git add filename
+#git status
+#git commit -m "this is first commit"
+#git branch
+#git push -u origin main
+------------------------------
+Deleted file
+
+delete the file in VScode
+#git add testfile1
+#git commit -m "deleted file"
+#git push -u origin main
+
+#git pull
