@@ -1,0 +1,18 @@
+After install git on local machine
+local machine cmd
+#git --version
+#git config --global user.name "github username"
+#git config --global user.email "github email"
+---------------------------------------------------
+in VScode
+
+create a one folder in local drive
+open that folder in VScode
+#git clone paste the github repo link
+#git ststus
+cd .\foldername\
+git add . or git add filename
+git status
+git commit -m "this is first commit"
+git branch
+git push -u origin main
